@@ -1,0 +1,5 @@
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DATA\obj\Debug\net5.0\Ze_Entrega.DATA.csprojAssemblyReference.cache
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DATA\obj\Debug\net5.0\Ze_Entrega.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DATA\obj\Debug\net5.0\Ze_Entrega.DATA.AssemblyInfoInputs.cache
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DATA\obj\Debug\net5.0\Ze_Entrega.DATA.AssemblyInfo.cs
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DATA\obj\Debug\net5.0\Ze_Entrega.DATA.csproj.CoreCompileInputs.cache
