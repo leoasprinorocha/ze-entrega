@@ -1,13 +1,17 @@
 ﻿@using Ze_EntregaWEB.Domain.Models;
 @model IEnumerable<Cliente>
 
-<div>
-
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Propriedades de background em CSS - Linha de Código</title>
+    <!-- Aqui chamamos o nosso arquivo css externo -->
+    <link rel="stylesheet" type="text/css" href="estilo.css" />
+</head>
+<body style="background-color: red">
     
-        @foreach (var item in Model){
-        
-        <p>@item.CPF</p>
-
-        }
-    
-</div>
+        <img src="~/Ze_EntregaWeb/Views/Shared/NewFolder/ZeEntregaLogo.png"/>
+        @*<img src="~/Ze_EntregaWeb/Ze_EntregaWeb/Views/Shared/NewFolder/"/>*@
+ 
+</body>
+</html>
