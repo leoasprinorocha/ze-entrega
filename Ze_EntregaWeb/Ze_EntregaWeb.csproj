@@ -23,4 +23,8 @@
     <ProjectReference Include="..\Ze_Entrega.DOMAIN\Ze_Entrega.DOMAIN.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Shared\NewFolder\" />
+  </ItemGroup>
+
 </Project>

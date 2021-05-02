@@ -1,0 +1,12 @@
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\bin\Release\net5.0\Ze_Entrega.DOMAIN.deps.json
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\bin\Release\net5.0\Ze_Entrega.DOMAIN.dll
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\bin\Release\net5.0\ref\Ze_Entrega.DOMAIN.dll
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\bin\Release\net5.0\Ze_Entrega.DOMAIN.pdb
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Release\net5.0\Ze_Entrega.DOMAIN.csprojAssemblyReference.cache
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Release\net5.0\Ze_Entrega.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Release\net5.0\Ze_Entrega.DOMAIN.AssemblyInfoInputs.cache
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Release\net5.0\Ze_Entrega.DOMAIN.AssemblyInfo.cs
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Release\net5.0\Ze_Entrega.DOMAIN.csproj.CoreCompileInputs.cache
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Release\net5.0\Ze_Entrega.DOMAIN.dll
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Release\net5.0\ref\Ze_Entrega.DOMAIN.dll
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Release\net5.0\Ze_Entrega.DOMAIN.pdb

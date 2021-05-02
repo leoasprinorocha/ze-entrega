@@ -9,3 +9,4 @@ C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Debug\net5.0\Ze_Entreg
 C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Debug\net5.0\Ze_Entrega.DOMAIN.dll
 C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Debug\net5.0\ref\Ze_Entrega.DOMAIN.dll
 C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Debug\net5.0\Ze_Entrega.DOMAIN.pdb
+C:\repositorio_testes\Ze_EntregaWeb\Ze_Entrega.DOMAIN\obj\Debug\net5.0\Ze_Entrega.DOMAIN.csprojAssemblyReference.cache
